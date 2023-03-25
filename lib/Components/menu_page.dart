@@ -21,24 +21,6 @@ class _MenuPageState extends State<MenuPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // bottomNavigationBar: BottomNavigationBar(
-      //   elevation: 0,
-      //   type: BottomNavigationBarType.fixed,
-      //   currentIndex: activeIndex,
-      //   onTap: (int index) {
-      //     setState(() {
-      //     activeIndex = index;
-      //     });
-      //   },
-      //   selectedItemColor: Colors.amber,
-      //   unselectedItemColor: Colors.grey,
-      //   showUnselectedLabels: true,
-      //   items: [
-      //   BottomNavigationBarItem(icon: Icon(Icons.home), label: "rumah"),
-      //   BottomNavigationBarItem(icon: Icon(Icons.abc), label: "rumah"),
-      //   BottomNavigationBarItem(icon: Icon(Icons.ac_unit), label: "rumah"),
-      //   BottomNavigationBarItem(icon: Icon(Icons.accessibility), label: "rumah"),
-      // ]),
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: activeIndex,
         onTap: (int index) {

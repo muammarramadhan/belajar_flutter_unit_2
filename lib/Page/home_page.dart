@@ -243,42 +243,42 @@ class _HomepageState extends State<Homepage> {
                   ),
                   bestAgents(
                       gambar: Image.asset("assets/images/image_71.png"),
-                      name: "Abili",
+                      name: "Amar",
                       value: 190),
                   SizedBox(
                     width: 15,
                   ),
                   bestAgents(
                       gambar: Image.asset("assets/images/image_73.png"),
-                      name: "Andika",
+                      name: "Joko",
                       value: 123),
                   SizedBox(
                     width: 15,
                   ),
                   bestAgents(
                       gambar: Image.asset("assets/images/image_75.png"),
-                      name: "Syahlan",
+                      name: "Widodo",
                       value: 111),
                   SizedBox(
                     width: 15,
                   ),
                   bestAgents(
                       gambar: Image.asset("assets/images/image_71.png"),
-                      name: "Ihsan",
+                      name: "Bambang",
                       value: 450),
                   SizedBox(
                     width: 15,
                   ),
                   bestAgents(
                       gambar: Image.asset("assets/images/image_73.png"),
-                      name: "Ghaza",
+                      name: "Susilo",
                       value: 250),
                   SizedBox(
                     width: 15,
                   ),
                   bestAgents(
                       gambar: Image.asset("assets/images/image_75.png"),
-                      name: "Ghaza2",
+                      name: "Yudhoyono",
                       value: 25),
                   SizedBox(
                     width: 15,
@@ -311,35 +311,35 @@ class _HomepageState extends State<Homepage> {
                       children: [
                         cities(
                             gambar: Image.asset("assets/images/image_8.png"),
-                            title: "Jakarta Selatan",
+                            title: "Aceh",
                             value: 194),
                         SizedBox(
                           height: 15,
                         ),
                         cities(
                             gambar: Image.asset("assets/images/image_9.png"),
-                            title: "Bandung",
+                            title: "Medan",
                             value: 89400),
                         SizedBox(
                           height: 15,
                         ),
                         cities(
                             gambar: Image.asset("assets/images/image_10.png"),
-                            title: "Denpasar",
+                            title: "Palembang",
                             value: 184000),
                         SizedBox(
                           height: 15,
                         ),
                         cities(
                             gambar: Image.asset("assets/images/image_9.png"),
-                            title: "Pulau Banyak",
+                            title: "Padang",
                             value: 8300),
                         SizedBox(
                           height: 15,
                         ),
                         cities(
                             gambar: Image.asset("assets/images/image_8.png"),
-                            title: "Singkil",
+                            title: "Riau",
                             value: 55),
                         SizedBox(
                           height: 15,
